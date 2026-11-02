@@ -1,0 +1,18 @@
+{
+  "schema": "public-profile-job-package-v1",
+  "repository": "rodrix91/confluencia-profile-sync",
+  "files": {
+    ".github/workflows/profile-sync.yml": "517e2a24acd61fac7f2006ebe130cef97ebbeed1bdd92fe5e0e1806db3ae5e6b",
+    ".gitignore": "e5f8a07c5b667ea04586bff9e33915debb1389f9f31aae6ec48c56feb61ba8f3",
+    "README.md": "357ce46f12aea3f1d41fd8e97733b8bf6ad2727a64b7d7660b6d839813383f28",
+    "approved/references.json": "d499d429f0260e49ee128e72698979d953eb0f08e16595cab8f230abf6598163",
+    "scripts/persist-state.py": "1bfe6c562003d5a91b0a2ca2563025633ce51de91a75e22e442e4cf47eb54006",
+    "scripts/profile-job.py": "a1fd6f4d4a3a608fdc01aeff668da0f1bd551ecd584b54e8e3d1cfa599060400",
+    "scripts/profile-job.test.py": "5af9014b9c721e323f6503f45eaa305633653a7a641287219d5c71904cbac0b4",
+    "scripts/sync-public-profiles.py": "a2fb00c4335370113dbede1d98f633b1b401d8db03b56e24916dba3922aec1a5",
+    "state/current.json": "73ab1e92d0c1f9033c288243fd5441729190631658a7c8c5a81ab1873bc8b26a"
+  },
+  "privateCvOrHistoryIncluded": false,
+  "dependencies": "Python standard library; two pinned official GitHub actions",
+  "mandatoryPaidServices": false
+}

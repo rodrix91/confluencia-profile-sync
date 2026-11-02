@@ -1,0 +1,47 @@
+name: Public profile metadata
+
+on:
+  schedule:
+    - cron: '37 10 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'approved/**'
+      - '.github/workflows/profile-sync.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: confluencia-public-profile-sync
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'rodrix91/confluencia-profile-sync' && github.ref == 'refs/heads/main' && github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the latest state
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6, verified official ref
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6, verified official ref
+        with:
+          python-version: '3.12'
+      - name: Verify policy and retention contracts
+        run: python scripts/profile-job.test.py -v
+      - name: Read public metadata and preserve last valid data
+        run: python scripts/profile-job.py
+      - name: Persist only the validated state
+        run: python scripts/persist-state.py
+        env:
+          CONFLUENCIA_JOB_TOKEN: ${{ github.token }}
+      - name: Report source or identity review failures
+        run: python scripts/profile-job.py --assert-ready
