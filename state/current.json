@@ -5,19 +5,19 @@
     "collections": {
       "github": {
         "status": "fresh",
-        "lastAttemptAt": "2026-11-02T00:46:44Z",
-        "lastValidatedAt": "2026-11-02T00:46:44Z",
-        "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
+        "lastAttemptAt": "2026-11-02T00:55:36Z",
+        "lastValidatedAt": "2026-11-02T00:55:36Z",
+        "lastSuccessfulFetchAt": "2026-11-02T00:55:36Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:46:44Z",
+          "observedAt": "2026-11-02T00:55:36Z",
           "records": [
             {
               "remoteId": "1403704823",
               "name": "rodrix91/csv-quality-report",
               "url": "https://github.com/rodrix91/csv-quality-report",
-              "lastActivity": "2026-11-02T00:30:44Z",
+              "lastActivity": "2026-11-02T00:53:12Z",
               "fork": false,
               "archived": false
             },
@@ -41,7 +41,7 @@
               "remoteId": "1417903289",
               "name": "rodrix91/inventory-policy-lab",
               "url": "https://github.com/rodrix91/inventory-policy-lab",
-              "lastActivity": "2026-11-02T00:22:43Z",
+              "lastActivity": "2026-11-02T00:52:26Z",
               "fork": false,
               "archived": false
             },
@@ -65,7 +65,7 @@
               "remoteId": "1442357592",
               "name": "rodrix91/confluencia-profile-sync",
               "url": "https://github.com/rodrix91/confluencia-profile-sync",
-              "lastActivity": "2026-11-02T00:46:32Z",
+              "lastActivity": "2026-11-02T00:46:45Z",
               "fork": false,
               "archived": false
             },
@@ -81,7 +81,7 @@
               "remoteId": "314063272",
               "name": "rodrix91/datasharing",
               "url": "https://github.com/rodrix91/datasharing",
-              "lastActivity": "2026-11-01T23:53:20Z",
+              "lastActivity": "2026-11-02T00:48:38Z",
               "fork": true,
               "archived": false
             },
@@ -98,14 +98,14 @@
             {
               "url": "https://api.github.com/users/rodrix91/repos?type=owner&per_page=100&page=1",
               "next": null,
-              "etag": "W/\"e56a883daffab9c68cb5c775f01082d8448ef1b9c80d75e5b39499f685c98ec4\"",
+              "etag": "W/\"427a0523f438b9d11faafeff36ffcae0d6351bebcd759de8f41ec8a80063fb74\"",
               "lastModified": null,
               "records": [
                 {
                   "remoteId": "1442357592",
                   "name": "rodrix91/confluencia-profile-sync",
                   "url": "https://github.com/rodrix91/confluencia-profile-sync",
-                  "lastActivity": "2026-11-02T00:46:32Z",
+                  "lastActivity": "2026-11-02T00:46:45Z",
                   "fork": false,
                   "archived": false
                 },
@@ -113,7 +113,7 @@
                   "remoteId": "1403704823",
                   "name": "rodrix91/csv-quality-report",
                   "url": "https://github.com/rodrix91/csv-quality-report",
-                  "lastActivity": "2026-11-02T00:30:44Z",
+                  "lastActivity": "2026-11-02T00:53:12Z",
                   "fork": false,
                   "archived": false
                 },
@@ -129,7 +129,7 @@
                   "remoteId": "314063272",
                   "name": "rodrix91/datasharing",
                   "url": "https://github.com/rodrix91/datasharing",
-                  "lastActivity": "2026-11-01T23:53:20Z",
+                  "lastActivity": "2026-11-02T00:48:38Z",
                   "fork": true,
                   "archived": false
                 },
@@ -137,7 +137,7 @@
                   "remoteId": "1417903289",
                   "name": "rodrix91/inventory-policy-lab",
                   "url": "https://github.com/rodrix91/inventory-policy-lab",
-                  "lastActivity": "2026-11-02T00:22:43Z",
+                  "lastActivity": "2026-11-02T00:52:26Z",
                   "fork": false,
                   "archived": false
                 },
@@ -182,22 +182,22 @@
                   "archived": false
                 }
               ],
-              "bodySha256": "183ce902002cf58eff7bc0db235a6f9e589fb2eeb7fddbc4d68a89ab1b4a376f"
+              "bodySha256": "1fcb28d41d7a366424531244ac2f3d88ce8549f2865c4e4bc70508868e5ce616"
             }
           ],
-          "sha256": "d942b747bd41381065ade15fe92d8b669eebdaaf73967f0a445723c01480fe53"
+          "sha256": "21097c3e64a07dc32142a0bc2e194fb6d61a91c37fa93d59ef035ff5ece1214d"
         },
         "pending": null
       },
       "gitlab": {
-        "status": "fresh",
-        "lastAttemptAt": "2026-11-02T00:46:44Z",
-        "lastValidatedAt": "2026-11-02T00:46:44Z",
+        "status": "unchanged",
+        "lastAttemptAt": "2026-11-02T00:55:36Z",
+        "lastValidatedAt": "2026-11-02T00:55:36Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:46:44Z",
+          "observedAt": "2026-11-02T00:55:36Z",
           "records": [
             {
               "remoteId": "87234274",
@@ -264,14 +264,14 @@
         "pending": null
       },
       "models": {
-        "status": "fresh",
-        "lastAttemptAt": "2026-11-02T00:46:44Z",
-        "lastValidatedAt": "2026-11-02T00:46:44Z",
+        "status": "unchanged",
+        "lastAttemptAt": "2026-11-02T00:55:36Z",
+        "lastValidatedAt": "2026-11-02T00:55:36Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:46:44Z",
+          "observedAt": "2026-11-02T00:55:36Z",
           "records": [],
           "pages": [
             {
@@ -288,14 +288,14 @@
         "pending": null
       },
       "datasets": {
-        "status": "fresh",
-        "lastAttemptAt": "2026-11-02T00:46:44Z",
-        "lastValidatedAt": "2026-11-02T00:46:44Z",
+        "status": "unchanged",
+        "lastAttemptAt": "2026-11-02T00:55:36Z",
+        "lastValidatedAt": "2026-11-02T00:55:36Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:46:44Z",
+          "observedAt": "2026-11-02T00:55:36Z",
           "records": [],
           "pages": [
             {
@@ -312,14 +312,14 @@
         "pending": null
       },
       "spaces": {
-        "status": "fresh",
-        "lastAttemptAt": "2026-11-02T00:46:44Z",
-        "lastValidatedAt": "2026-11-02T00:46:44Z",
+        "status": "unchanged",
+        "lastAttemptAt": "2026-11-02T00:55:36Z",
+        "lastValidatedAt": "2026-11-02T00:55:36Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:46:44Z",
+          "observedAt": "2026-11-02T00:55:36Z",
           "records": [
             {
               "remoteId": "6ac7b556dbe2c89bbaf9dade",
@@ -2383,7 +2383,7 @@
   "operationalRepositoryId": "1442357592",
   "accepted": {
     "schema": "approved-public-observation-v1",
-    "validatedAt": "2026-11-02T00:46:44Z",
+    "validatedAt": "2026-11-02T00:55:36Z",
     "references": [
       {
         "collection": "github",
@@ -2392,7 +2392,7 @@
         "url": "https://github.com/rodrix91/csv-quality-report",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:30:44Z",
+        "metadataLastActivity": "2026-11-02T00:53:12Z",
         "archived": false
       },
       {
@@ -2422,7 +2422,7 @@
         "url": "https://github.com/rodrix91/inventory-policy-lab",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:22:43Z",
+        "metadataLastActivity": "2026-11-02T00:52:26Z",
         "archived": false
       },
       {
@@ -2462,7 +2462,7 @@
         "url": "https://github.com/rodrix91/datasharing",
         "kind": "fork_reference",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-01T23:53:20Z",
+        "metadataLastActivity": "2026-11-02T00:48:38Z",
         "archived": false
       },
       {
@@ -3778,7 +3778,7 @@
     ]
   },
   "lastRun": {
-    "at": "2026-11-02T00:46:44Z",
+    "at": "2026-11-02T00:55:36Z",
     "requests": 6,
     "result": "promoted",
     "issues": [],
