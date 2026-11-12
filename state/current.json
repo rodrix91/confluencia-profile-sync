@@ -5,13 +5,13 @@
     "collections": {
       "github": {
         "status": "fresh",
-        "lastAttemptAt": "2026-11-12T18:33:42Z",
-        "lastValidatedAt": "2026-11-12T18:33:42Z",
-        "lastSuccessfulFetchAt": "2026-11-12T18:33:42Z",
+        "lastAttemptAt": "2026-11-12T20:43:27Z",
+        "lastValidatedAt": "2026-11-12T20:43:27Z",
+        "lastSuccessfulFetchAt": "2026-11-12T20:43:27Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-12T18:33:42Z",
+          "observedAt": "2026-11-12T20:43:27Z",
           "records": [
             {
               "remoteId": "1403704823",
@@ -65,7 +65,7 @@
               "remoteId": "1442357592",
               "name": "rodrix91/confluencia-profile-sync",
               "url": "https://github.com/rodrix91/confluencia-profile-sync",
-              "lastActivity": "2026-11-11T18:00:35Z",
+              "lastActivity": "2026-11-12T20:43:12Z",
               "fork": false,
               "archived": false
             },
@@ -98,14 +98,14 @@
             {
               "url": "https://api.github.com/users/rodrix91/repos?type=owner&per_page=100&page=1",
               "next": null,
-              "etag": "W/\"c6f121355091c81b9c56776868e6635a3b970d71cc47b10cc5b6427226ed0004\"",
+              "etag": "W/\"609998e0cf614b67389020a64f0cf286e0d68a8f092b5ba5a996d082d960748d\"",
               "lastModified": null,
               "records": [
                 {
                   "remoteId": "1442357592",
                   "name": "rodrix91/confluencia-profile-sync",
                   "url": "https://github.com/rodrix91/confluencia-profile-sync",
-                  "lastActivity": "2026-11-11T18:00:35Z",
+                  "lastActivity": "2026-11-12T20:43:12Z",
                   "fork": false,
                   "archived": false
                 },
@@ -182,22 +182,22 @@
                   "archived": false
                 }
               ],
-              "bodySha256": "0dbca6393af8287f6e73378332ba3664b769f5498c41449bd6415c5bb20deb79"
+              "bodySha256": "e4d6d45f045fb4f0f904e6bdf4cf7eecb8b8b50ead540704841d7a54d88b906c"
             }
           ],
-          "sha256": "bcdc3bb369c817cc5ed2fd7d85958da1d8b22bf27be27f9034bcf8fdcfea62b4"
+          "sha256": "33a7afa5b3c75ebc4e86cc5f8e9b036f092ad9929df14e80cac20243930600f2"
         },
         "pending": null
       },
       "gitlab": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-12T18:33:42Z",
-        "lastValidatedAt": "2026-11-12T18:33:42Z",
+        "lastAttemptAt": "2026-11-12T20:43:27Z",
+        "lastValidatedAt": "2026-11-12T20:43:27Z",
         "lastSuccessfulFetchAt": "2026-11-08T16:46:45Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-12T18:33:42Z",
+          "observedAt": "2026-11-12T20:43:27Z",
           "records": [
             {
               "remoteId": "87234274",
@@ -265,13 +265,13 @@
       },
       "models": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-12T18:33:42Z",
-        "lastValidatedAt": "2026-11-12T18:33:42Z",
+        "lastAttemptAt": "2026-11-12T20:43:27Z",
+        "lastValidatedAt": "2026-11-12T20:43:27Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-12T18:33:42Z",
+          "observedAt": "2026-11-12T20:43:27Z",
           "records": [],
           "pages": [
             {
@@ -289,13 +289,13 @@
       },
       "datasets": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-12T18:33:42Z",
-        "lastValidatedAt": "2026-11-12T18:33:42Z",
+        "lastAttemptAt": "2026-11-12T20:43:27Z",
+        "lastValidatedAt": "2026-11-12T20:43:27Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-12T18:33:42Z",
+          "observedAt": "2026-11-12T20:43:27Z",
           "records": [],
           "pages": [
             {
@@ -312,14 +312,14 @@
         "pending": null
       },
       "spaces": {
-        "status": "review_required",
-        "lastAttemptAt": "2026-11-12T18:33:42Z",
-        "lastValidatedAt": "2026-11-02T00:55:36Z",
-        "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
+        "status": "fresh",
+        "lastAttemptAt": "2026-11-12T20:43:27Z",
+        "lastValidatedAt": "2026-11-12T20:43:27Z",
+        "lastSuccessfulFetchAt": "2026-11-12T20:43:27Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-02T00:55:36Z",
+          "observedAt": "2026-11-12T20:43:27Z",
           "records": [
             {
               "remoteId": "6ac7b556dbe2c89bbaf9dade",
@@ -1341,7 +1341,7 @@
               "remoteId": "6ae7fe453f83b52cf0af2f95",
               "name": "Hugdrigo/attnscope-transformer-lab",
               "url": "https://huggingface.co/spaces/Hugdrigo/attnscope-transformer-lab",
-              "lastActivity": "2026-11-02T03:06:45.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1349,7 +1349,7 @@
               "remoteId": "6ae94f9571d60edea13f8387",
               "name": "Hugdrigo/gridbattery-storage-economics",
               "url": "https://huggingface.co/spaces/Hugdrigo/gridbattery-storage-economics",
-              "lastActivity": "2026-11-03T03:06:25.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1357,7 +1357,7 @@
               "remoteId": "6ae94ff8ac4df7c2b4bf5925",
               "name": "Hugdrigo/ethicsgate-ai-risk-assessment",
               "url": "https://huggingface.co/spaces/Hugdrigo/ethicsgate-ai-risk-assessment",
-              "lastActivity": "2026-11-03T03:08:00.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1365,7 +1365,7 @@
               "remoteId": "6ae95024636a95a509aa5066",
               "name": "Hugdrigo/tradebarrier-landed-cost",
               "url": "https://huggingface.co/spaces/Hugdrigo/tradebarrier-landed-cost",
-              "lastActivity": "2026-11-03T03:09:03.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1373,7 +1373,7 @@
               "remoteId": "6ae95f881eb42bb25b3633c3",
               "name": "Hugdrigo/medstock-expiry-readiness",
               "url": "https://huggingface.co/spaces/Hugdrigo/medstock-expiry-readiness",
-              "lastActivity": "2026-11-03T04:15:28.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1381,7 +1381,7 @@
               "remoteId": "6ae96000a259cea64e8fccb8",
               "name": "Hugdrigo/portflow-terminal-capacity",
               "url": "https://huggingface.co/spaces/Hugdrigo/portflow-terminal-capacity",
-              "lastActivity": "2026-11-03T04:17:05.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1389,7 +1389,7 @@
               "remoteId": "6ae96062636a95a509ac75a9",
               "name": "Hugdrigo/curriculumpath-study-progression",
               "url": "https://huggingface.co/spaces/Hugdrigo/curriculumpath-study-progression",
-              "lastActivity": "2026-11-03T04:17:58.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             },
@@ -1397,13 +1397,1112 @@
               "remoteId": "6ae9645c6bf249af629d7dce",
               "name": "Hugdrigo/floodshield-stormwater-lab",
               "url": "https://huggingface.co/spaces/Hugdrigo/floodshield-stormwater-lab",
-              "lastActivity": "2026-11-03T04:35:06.000Z",
+              "lastActivity": null,
               "fork": null,
               "archived": null
             }
           ],
-          "pages": [],
-          "sha256": "a318344d683c10567331b2ac7ba23e440e0850b6da645744f7317755ff9c3553"
+          "pages": [
+            {
+              "url": "https://huggingface.co/api/spaces?author=Hugdrigo&limit=100",
+              "next": "https://huggingface.co/api/spaces?author=Hugdrigo&limit=100&cursor=eyIkb3IiOlt7InRyZW5kaW5nU2NvcmUiOjAsIl9pZCI6eyIkZ3QiOiI2YWRjMDA3OWZlNjJiZmQyZmNkN2MzYWEifX0seyJ0cmVuZGluZ1Njb3JlIjp7IiRsdCI6MH19LHsidHJlbmRpbmdTY29yZSI6bnVsbH1dfQ%3D%3D",
+              "etag": "W/\"701a-wjFpjZ4YJqaKY4sy6G8noKS/800\"",
+              "lastModified": null,
+              "records": [
+                {
+                  "remoteId": "6ac7b556dbe2c89bbaf9dade",
+                  "name": "Hugdrigo/researchlens",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/researchlens",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7bd7606fbb6cabc8ce150",
+                  "name": "Hugdrigo/careermatch-ai",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/careermatch-ai",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7c1f795634cafa04bc47f",
+                  "name": "Hugdrigo/latam-data-atlas",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/latam-data-atlas",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7c546e9c7f2605e2190aa",
+                  "name": "Hugdrigo/researchrag",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/researchrag",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7faab1c3d50e18cf498b4",
+                  "name": "Hugdrigo/multilingual-modelbench",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/multilingual-modelbench",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7fca6e6452dc776dc4d79",
+                  "name": "Hugdrigo/academic-rhetoric-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/academic-rhetoric-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7ff0608d72b7d5ff08262",
+                  "name": "Hugdrigo/hubcard-inspector-pro",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/hubcard-inspector-pro",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7ff710a74d500ddad89bd",
+                  "name": "Hugdrigo/tradescope-latam-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/tradescope-latam-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac7ffecd044393eed7de7b6",
+                  "name": "Hugdrigo/scholarlens-research-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/scholarlens-research-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac8131a6829b7e13160485d",
+                  "name": "Hugdrigo/education-data-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/education-data-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac8138cd897dccd41d884fc",
+                  "name": "Hugdrigo/policylab-ai",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/policylab-ai",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac8142d08d72b7d5ff36f4b",
+                  "name": "Hugdrigo/impactlab-latam",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/impactlab-latam",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac81495f0c8591e0f5751e5",
+                  "name": "Hugdrigo/evidencegraph-research-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/evidencegraph-research-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac81509fc8d02452fecdf0f",
+                  "name": "Hugdrigo/modelops-research-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/modelops-research-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac81599c9d527ebb31b4622",
+                  "name": "Hugdrigo/modelguard-observatory",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/modelguard-observatory",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac94efc81b0c228f47cf5d6",
+                  "name": "Hugdrigo/evalflow-ci-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/evalflow-ci-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac94f7ebe2780d1cf711cbe",
+                  "name": "Hugdrigo/reprochain-ai",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/reprochain-ai",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac9500de5b699dcf3eadecc",
+                  "name": "Hugdrigo/robustnesslab-ai",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/robustnesslab-ai",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac960d91938accc20f41a97",
+                  "name": "Hugdrigo/scholarflow-research-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/scholarflow-research-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac961358e680ecfa7585edc",
+                  "name": "Hugdrigo/causalscope-experiment-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/causalscope-experiment-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ac96228be2780d1cf74abd3",
+                  "name": "Hugdrigo/agentweave-workflow-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/agentweave-workflow-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6aca6b1399e09a48524fedcb",
+                  "name": "Hugdrigo/verityrag-evidence-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/verityrag-evidence-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6acbb1ec8c240610a2b37474",
+                  "name": "Hugdrigo/flowpilot-operations-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/flowpilot-operations-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6acbb2bcceba82dda47fe402",
+                  "name": "Hugdrigo/prismaudit-model-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/prismaudit-model-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6acbb31040d3356db83b8bca",
+                  "name": "Hugdrigo/temposcope-forecast-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/temposcope-forecast-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0080d9a4180c7948081be",
+                  "name": "Hugdrigo/clarityxai-explainability-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/clarityxai-explainability-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0088103f6e74218fbe50f",
+                  "name": "Hugdrigo/bayesatlas-bayesian-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/bayesatlas-bayesian-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad00c5ee11911797afccbfd",
+                  "name": "Hugdrigo/synthshield-privacy-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/synthshield-privacy-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad00e2c1ee5628d2638b37a",
+                  "name": "Hugdrigo/policyforge-offpolicy-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/policyforge-offpolicy-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad021bf316fe11f74c6eef9",
+                  "name": "Hugdrigo/lexibench-multilingual-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/lexibench-multilingual-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad024d9093aba9665d3b0c3",
+                  "name": "Hugdrigo/accessatlas-spatial-equity-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/accessatlas-spatial-equity-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0275d2e58c851fa9ed450",
+                  "name": "Hugdrigo/schemaguard-data-quality-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/schemaguard-data-quality-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad029db8957749d6111c771",
+                  "name": "Hugdrigo/processscope-process-mining-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/processscope-process-mining-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad02c908957749d61124d6c",
+                  "name": "Hugdrigo/scaleforge-psychometrics-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/scaleforge-psychometrics-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad02fbf093aba9665d58a2b",
+                  "name": "Hugdrigo/metaforge-evidence-synthesis-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/metaforge-evidence-synthesis-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad045e5c288c5d8e73f88bd",
+                  "name": "Hugdrigo/citegraph-scholar-network-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/citegraph-scholar-network-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad04629316fe11f74cd5b9d",
+                  "name": "Hugdrigo/corpusvista-bilingual-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/corpusvista-bilingual-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0467a8957749d6116c7a7",
+                  "name": "Hugdrigo/themelens-qualitative-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/themelens-qualitative-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad046d2093aba9665d995e9",
+                  "name": "Hugdrigo/routeforge-fleet-optimization-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/routeforge-fleet-optimization-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0470cc1c99e2a23fbb684",
+                  "name": "Hugdrigo/tradescope-export-intelligence-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/tradescope-export-intelligence-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad04744316fe11f74cd8ca5",
+                  "name": "Hugdrigo/survivalscope-retention-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/survivalscope-retention-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad0478a961c8c0cf5afd1b5",
+                  "name": "Hugdrigo/samplecraft-survey-weighting-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/samplecraft-survey-weighting-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a49fae9464fe5770634e",
+                  "name": "Hugdrigo/agenttrace-reliability-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/agenttrace-reliability-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a4f8d7f320024e83f874",
+                  "name": "Hugdrigo/lineage-lab-provenance-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/lineage-lab-provenance-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a5521e380e87e4bc53d4",
+                  "name": "Hugdrigo/stockpilot-inventory-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/stockpilot-inventory-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a5b63fac8dbe628b3cfa",
+                  "name": "Hugdrigo/carbonledger-emissions-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/carbonledger-emissions-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a62cb23362744e6ca209",
+                  "name": "Hugdrigo/cashpilot-liquidity-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/cashpilot-liquidity-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a68414864bf11e209a25",
+                  "name": "Hugdrigo/tenderscope-procurement-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/tenderscope-procurement-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a71514864bf11e20b45f",
+                  "name": "Hugdrigo/pathwaylab-cohort-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/pathwaylab-cohort-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a81feb1718eb474fce53",
+                  "name": "Hugdrigo/matchforge-opportunity-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/matchforge-opportunity-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad1a87a55bdc30db5b5ba13",
+                  "name": "Hugdrigo/milestoneiq-project-risk-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/milestoneiq-project-risk-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2c9674606b1d078b5bcf1",
+                  "name": "Hugdrigo/gridpilot-solar-storage-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/gridpilot-solar-storage-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2c9a2eda7835a9f8f001f",
+                  "name": "Hugdrigo/shiftforge-workforce-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/shiftforge-workforce-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2c9f64a0566f79c922808",
+                  "name": "Hugdrigo/pricepilot-elasticity-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/pricepilot-elasticity-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2ca4991482f0e2c0872a6",
+                  "name": "Hugdrigo/forecastforge-time-series-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/forecastforge-time-series-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2caa64339527205c957f5",
+                  "name": "Hugdrigo/experimentforge-ab-testing-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/experimentforge-ab-testing-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2caf12b4bd6a951ecdf9d",
+                  "name": "Hugdrigo/causalbridge-policy-impact-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/causalbridge-policy-impact-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2cc2c9078c8501b638bdf",
+                  "name": "Hugdrigo/fairmetric-responsible-ai-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/fairmetric-responsible-ai-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2cc7fec33b2ec408d75fd",
+                  "name": "Hugdrigo/signalguard-anomaly-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/signalguard-anomaly-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2cd329e44b1f3f2ea3291",
+                  "name": "Hugdrigo/queuescope-service-operations-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/queuescope-service-operations-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2cd7a51aa3fea3d9d796a",
+                  "name": "Hugdrigo/riskweave-enterprise-risk-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/riskweave-enterprise-risk-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad2cdb3366c5d3d6251042b",
+                  "name": "Hugdrigo/reviewflow-screening-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/reviewflow-screening-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad539a95cb84ed5742c0d55",
+                  "name": "Hugdrigo/decisionatlas-mcda-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/decisionatlas-mcda-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad53a1a5195b706acab03e0",
+                  "name": "Hugdrigo/linkresolve-entity-resolution-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/linkresolve-entity-resolution-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad53a844c158551db1c81ee",
+                  "name": "Hugdrigo/budgetforge-allocation-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/budgetforge-allocation-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad53b1ea2e0c9875dcee2bf",
+                  "name": "Hugdrigo/fxshield-currency-risk-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/fxshield-currency-risk-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad53b5fd4c5702e6c3c9a6a",
+                  "name": "Hugdrigo/basketforge-market-basket-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/basketforge-market-basket-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad53bffa150e48c9741fab1",
+                  "name": "Hugdrigo/privacyforge-anonymization-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/privacyforge-anonymization-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ad592c5fafcb692aea190a4",
+                  "name": "Hugdrigo/inventorypulse-reorder-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/inventorypulse-reorder-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada36039c7e97aa899bafc4",
+                  "name": "Hugdrigo/decisionforge-strategic-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/decisionforge-strategic-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada37509d2305565c8be1b1",
+                  "name": "Hugdrigo/aegisflow-soc-response-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/aegisflow-soc-response-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada382715d1e48957bac2e8",
+                  "name": "Hugdrigo/frontieratlas-market-entry-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/frontieratlas-market-entry-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada38e29ce420bf3e93967f",
+                  "name": "Hugdrigo/agentledger-ai-governance-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/agentledger-ai-governance-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada3dddddeac6354127cea3",
+                  "name": "Hugdrigo/vendorscope-supplier-risk-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/vendorscope-supplier-risk-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada3e308f0f9c17f610dd52",
+                  "name": "Hugdrigo/carbonroute-logistics-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/carbonroute-logistics-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada3e8b96de6e51b9251951",
+                  "name": "Hugdrigo/runwayforge-cash-flow-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/runwayforge-cash-flow-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada3f448337efb7dd499a6f",
+                  "name": "Hugdrigo/continuityos-resilience-command-center",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/continuityos-resilience-command-center",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada40094284c06abcd0f8e8",
+                  "name": "Hugdrigo/evidenceatlas-research-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/evidenceatlas-research-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada40481d6d49d769f0345f",
+                  "name": "Hugdrigo/gridpilot-energy-strategy-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/gridpilot-energy-strategy-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada4084e7666d8b83ad1552",
+                  "name": "Hugdrigo/cohortpilot-growth-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/cohortpilot-growth-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada418131b91b6664ade894",
+                  "name": "Hugdrigo/elasticitylab-pricing-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/elasticitylab-pricing-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada425d1a664cf1a80f562b",
+                  "name": "Hugdrigo/driftscope-model-data-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/driftscope-model-data-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada4fcd31b91b6664b0c230",
+                  "name": "Hugdrigo/queuepilot-service-capacity-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/queuepilot-service-capacity-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada4ff681f725236030a3eb",
+                  "name": "Hugdrigo/liftlab-experiment-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/liftlab-experiment-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada50dbf9df2d896968d4e6",
+                  "name": "Hugdrigo/cascadelab-network-resilience-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/cascadelab-network-resilience-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada52941d6d49d769f39318",
+                  "name": "Hugdrigo/talentflow-workforce-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/talentflow-workforce-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ada52d6fd1d9995848f805e",
+                  "name": "Hugdrigo/captablelab-equity-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/captablelab-equity-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbf71a3219c8e15c497bf4",
+                  "name": "Hugdrigo/orchestraos-autonomous-operations",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/orchestraos-autonomous-operations",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfb91041ae0c501b0a103",
+                  "name": "Hugdrigo/signalcast-forecast-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/signalcast-forecast-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfbe63d59e0423a0aa64b",
+                  "name": "Hugdrigo/aqualedger-water-resilience-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/aqualedger-water-resilience-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfc48fe62bfd2fcd68085",
+                  "name": "Hugdrigo/circularflow-material-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/circularflow-material-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfcceb04b81f86a7806d1",
+                  "name": "Hugdrigo/inferenceatlas-ai-economics-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/inferenceatlas-ai-economics-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfd39fe62bfd2fcd6d311",
+                  "name": "Hugdrigo/impactledger-program-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/impactledger-program-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbfe373b06a764e89cff04",
+                  "name": "Hugdrigo/contractpilot-exposure-intelligence",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/contractpilot-exposure-intelligence",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbff03684255f0740d3381",
+                  "name": "Hugdrigo/dispatchforge-last-mile-routing",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/dispatchforge-last-mile-routing",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbff4f0ef1b8f87328eafa",
+                  "name": "Hugdrigo/plantsentinel-industrial-anomaly-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/plantsentinel-industrial-anomaly-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbff96b04b81f86a78c4c3",
+                  "name": "Hugdrigo/grantforge-research-funding-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/grantforge-research-funding-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adbffdea2e53caedf673dca",
+                  "name": "Hugdrigo/scholargraph-research-collaboration",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/scholargraph-research-collaboration",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc0042d49bbdd8dd26d0a1",
+                  "name": "Hugdrigo/fairnessscope-model-evaluation-studio",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/fairnessscope-model-evaluation-studio",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc0079fe62bfd2fcd7c3aa",
+                  "name": "Hugdrigo/bomforge-manufacturing-planner",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/bomforge-manufacturing-planner",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                }
+              ],
+              "bodySha256": "9dc8182c356cf51521c8b7983705e69b4d95c985f2780c42d5cf5b93b6af19c8"
+            },
+            {
+              "url": "https://huggingface.co/api/spaces?author=Hugdrigo&limit=100&cursor=eyIkb3IiOlt7InRyZW5kaW5nU2NvcmUiOjAsIl9pZCI6eyIkZ3QiOiI2YWRjMDA3OWZlNjJiZmQyZmNkN2MzYWEifX0seyJ0cmVuZGluZ1Njb3JlIjp7IiRsdCI6MH19LHsidHJlbmRpbmdTY29yZSI6bnVsbH1dfQ%3D%3D",
+              "next": null,
+              "etag": "W/\"1ca0-KXAntHERoedHH26QHvq51KR1gBA\"",
+              "lastModified": null,
+              "records": [
+                {
+                  "remoteId": "6adc00ba5dfb6f3e25385a5f",
+                  "name": "Hugdrigo/campusflow-academic-scheduling",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/campusflow-academic-scheduling",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc0228afa40bfe7563cda3",
+                  "name": "Hugdrigo/urbanheat-city-resilience",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/urbanheat-city-resilience",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc025f3b06a764e89e6484",
+                  "name": "Hugdrigo/coldtrace-temperature-integrity",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/coldtrace-temperature-integrity",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc02e0a2e53caedf6840b0",
+                  "name": "Hugdrigo/civicbudget-public-allocation",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/civicbudget-public-allocation",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc03aeb04b81f86a7a309d",
+                  "name": "Hugdrigo/agropulse-farm-scenario-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/agropulse-farm-scenario-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc041f52d20fe5ea88448a",
+                  "name": "Hugdrigo/datalineage-dependency-impact",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/datalineage-dependency-impact",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6adc0460acc7c9c71088cfbc",
+                  "name": "Hugdrigo/sloguard-service-reliability",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/sloguard-service-reliability",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6add50ff7588ee655ad0a2ed",
+                  "name": "Hugdrigo/cloudledger-finops-planning",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/cloudledger-finops-planning",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6add51808e84a8b7865c5aac",
+                  "name": "Hugdrigo/transitpulse-service-performance",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/transitpulse-service-performance",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6add51ec130a725e85c6fe9d",
+                  "name": "Hugdrigo/evalmatrix-llm-benchmark",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/evalmatrix-llm-benchmark",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade305eeb1f2ac4e4a4367c",
+                  "name": "Hugdrigo/oceanledger-marine-resilience",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/oceanledger-marine-resilience",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade312a304952ff4f1db6df",
+                  "name": "Hugdrigo/retrofitiq-building-efficiency",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/retrofitiq-building-efficiency",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade315e4816eb17345d6114",
+                  "name": "Hugdrigo/surveycraft-stratified-estimation",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/surveycraft-stratified-estimation",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade319569feab6d89a3e4e0",
+                  "name": "Hugdrigo/bridgewatch-infrastructure-triage",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/bridgewatch-infrastructure-triage",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade31c6304952ff4f1dc902",
+                  "name": "Hugdrigo/museumguard-collection-preservation",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/museumguard-collection-preservation",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade320ceb1f2ac4e4a46802",
+                  "name": "Hugdrigo/privacymap-data-processing-risk",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/privacymap-data-processing-risk",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade3245e34771a23831127a",
+                  "name": "Hugdrigo/bondmatrix-duration-yield-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/bondmatrix-duration-yield-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade3338b04b81f86ad1c23b",
+                  "name": "Hugdrigo/eventcanvas-revenue-capacity",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/eventcanvas-revenue-capacity",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade337ae14f73c1dc256309",
+                  "name": "Hugdrigo/orbitlens-satellite-link-capacity",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/orbitlens-satellite-link-capacity",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade33b2130a725e85e76198",
+                  "name": "Hugdrigo/tourismflow-destination-demand",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/tourismflow-destination-demand",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade34aa69feab6d89a45683",
+                  "name": "Hugdrigo/aidroute-humanitarian-logistics",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/aidroute-humanitarian-logistics",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade34ef5cf87498191d6000",
+                  "name": "Hugdrigo/cashflowlab-receivables-liquidity",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/cashflowlab-receivables-liquidity",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade354cf60fb004f25d86d9",
+                  "name": "Hugdrigo/talentmatrix-skills-investment",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/talentmatrix-skills-investment",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade35a7ce89e4ba502587d7",
+                  "name": "Hugdrigo/carbonscope-emissions-accounting",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/carbonscope-emissions-accounting",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade3626b04b81f86ad22cb8",
+                  "name": "Hugdrigo/queuecanvas-contact-center",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/queuecanvas-contact-center",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade369a1c2dbb0bb18a29b2",
+                  "name": "Hugdrigo/soilguard-agronomy-water-nutrients",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/soilguard-agronomy-water-nutrients",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ade36ceeb1f2ac4e4a52ad0",
+                  "name": "Hugdrigo/supplyshock-inventory-resilience",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/supplyshock-inventory-resilience",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae7fe453f83b52cf0af2f95",
+                  "name": "Hugdrigo/attnscope-transformer-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/attnscope-transformer-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae94f9571d60edea13f8387",
+                  "name": "Hugdrigo/gridbattery-storage-economics",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/gridbattery-storage-economics",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae94ff8ac4df7c2b4bf5925",
+                  "name": "Hugdrigo/ethicsgate-ai-risk-assessment",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/ethicsgate-ai-risk-assessment",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae95024636a95a509aa5066",
+                  "name": "Hugdrigo/tradebarrier-landed-cost",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/tradebarrier-landed-cost",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae95f881eb42bb25b3633c3",
+                  "name": "Hugdrigo/medstock-expiry-readiness",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/medstock-expiry-readiness",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae96000a259cea64e8fccb8",
+                  "name": "Hugdrigo/portflow-terminal-capacity",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/portflow-terminal-capacity",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae96062636a95a509ac75a9",
+                  "name": "Hugdrigo/curriculumpath-study-progression",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/curriculumpath-study-progression",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                },
+                {
+                  "remoteId": "6ae9645c6bf249af629d7dce",
+                  "name": "Hugdrigo/floodshield-stormwater-lab",
+                  "url": "https://huggingface.co/spaces/Hugdrigo/floodshield-stormwater-lab",
+                  "lastActivity": null,
+                  "fork": null,
+                  "archived": null
+                }
+              ],
+              "bodySha256": "d8755ea5e9774cebdafdd420ecb139d793acbc0b09bc3e14c8204a5f0234f1db"
+            }
+          ],
+          "sha256": "6f0b1cf7c16e21f02c59d87289e42cca8a904361f1cb713ac1d79e8feed15af2"
         },
         "pending": null
       }
@@ -1412,7 +2511,7 @@
   "operationalRepositoryId": "1442357592",
   "accepted": {
     "schema": "approved-public-observation-v1",
-    "validatedAt": "2026-11-02T00:55:36Z",
+    "validatedAt": "2026-11-12T20:43:27Z",
     "references": [
       {
         "collection": "github",
@@ -1421,7 +2520,7 @@
         "url": "https://github.com/rodrix91/csv-quality-report",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:53:12Z",
+        "metadataLastActivity": "2026-11-11T03:38:56Z",
         "archived": false
       },
       {
@@ -1431,7 +2530,7 @@
         "url": "https://github.com/rodrix91/rodrix91",
         "kind": "profile",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-01T23:48:49Z",
+        "metadataLastActivity": "2026-11-12T12:24:17Z",
         "archived": false
       },
       {
@@ -1441,7 +2540,7 @@
         "url": "https://github.com/rodrix91/ops-field-brief",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:26:37Z",
+        "metadataLastActivity": "2026-11-11T03:50:37Z",
         "archived": false
       },
       {
@@ -1451,7 +2550,7 @@
         "url": "https://github.com/rodrix91/inventory-policy-lab",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:52:26Z",
+        "metadataLastActivity": "2026-11-11T04:34:52Z",
         "archived": false
       },
       {
@@ -1461,7 +2560,7 @@
         "url": "https://github.com/rodrix91/rodrix-agent-kits",
         "kind": "public_repository",
         "typeReviewedAt": "2026-11-01T23:55:55+00:00",
-        "metadataLastActivity": "2026-11-02T00:39:20Z",
+        "metadataLastActivity": "2026-11-11T03:42:53Z",
         "archived": false
       },
       {
@@ -1471,7 +2570,7 @@
         "url": "https://github.com/rodrix91/launchlatam",
         "kind": "public_repository",
         "typeReviewedAt": "2026-11-01T23:55:55+00:00",
-        "metadataLastActivity": "2026-10-31T16:34:16Z",
+        "metadataLastActivity": "2026-11-10T03:29:39Z",
         "archived": false
       },
       {
@@ -1481,7 +2580,7 @@
         "url": "https://github.com/rodrix91/datasciencecoursera",
         "kind": "coursework",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-10-27T18:49:11Z",
+        "metadataLastActivity": "2026-11-08T02:19:16Z",
         "archived": false
       },
       {
@@ -1491,7 +2590,7 @@
         "url": "https://github.com/rodrix91/datasharing",
         "kind": "fork_reference",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:48:38Z",
+        "metadataLastActivity": "2026-11-11T04:11:01Z",
         "archived": false
       },
       {
@@ -1501,7 +2600,7 @@
         "url": "https://github.com/rodrix91/ProgrammingAssignment2",
         "kind": "fork_reference",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-01T22:59:17Z",
+        "metadataLastActivity": "2026-11-08T03:24:16Z",
         "archived": false
       },
       {
@@ -1511,7 +2610,7 @@
         "url": "https://gitlab.com/rodripn91/pipeline-doctor",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-01T23:58:16.198Z",
+        "metadataLastActivity": "2026-11-07T21:39:35.059Z",
         "archived": null
       },
       {
@@ -1521,7 +2620,7 @@
         "url": "https://gitlab.com/rodripn91/rodripn91",
         "kind": "profile",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-10-30T00:59:08.740Z",
+        "metadataLastActivity": "2026-11-07T15:16:07.935Z",
         "archived": null
       },
       {
@@ -1531,7 +2630,7 @@
         "url": "https://gitlab.com/rodripn91/delivery-lens",
         "kind": "planned_tool",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-02T00:15:20.089Z",
+        "metadataLastActivity": "2026-11-07T21:45:46.916Z",
         "archived": null
       },
       {
@@ -2811,7 +3910,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/floodshield-stormwater-lab",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T04:35:06.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2821,7 +3920,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/curriculumpath-study-progression",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T04:17:58.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2831,7 +3930,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/portflow-terminal-capacity",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T04:17:05.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2841,7 +3940,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/medstock-expiry-readiness",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T04:15:28.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2851,7 +3950,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/tradebarrier-landed-cost",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T03:09:03.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2861,7 +3960,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/ethicsgate-ai-risk-assessment",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T03:08:00.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2871,7 +3970,7 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/gridbattery-storage-economics",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-03T03:06:25.000Z",
+        "metadataLastActivity": null,
         "archived": null
       },
       {
@@ -2881,15 +3980,15 @@
         "url": "https://huggingface.co/spaces/Hugdrigo/attnscope-transformer-lab",
         "kind": "static_space",
         "typeReviewedAt": "2026-11-12",
-        "metadataLastActivity": "2026-11-02T03:06:45.000Z",
+        "metadataLastActivity": null,
         "archived": null
       }
     ]
   },
   "lastRun": {
-    "at": "2026-11-12T20:41:45Z",
-    "requests": 0,
-    "result": "seed",
+    "at": "2026-11-12T20:43:27Z",
+    "requests": 6,
+    "result": "promoted",
     "issues": [],
     "newCandidateCount": 0
   }
