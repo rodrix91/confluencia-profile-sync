@@ -1113,6 +1113,70 @@
       "url": "https://huggingface.co/spaces/Hugdrigo/supplyshock-inventory-resilience",
       "kind": "static_space",
       "reviewedAt": "2026-11-01T23:55:55+00:00"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae9645c6bf249af629d7dce",
+      "name": "Hugdrigo/floodshield-stormwater-lab",
+      "url": "https://huggingface.co/spaces/Hugdrigo/floodshield-stormwater-lab",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae96062636a95a509ac75a9",
+      "name": "Hugdrigo/curriculumpath-study-progression",
+      "url": "https://huggingface.co/spaces/Hugdrigo/curriculumpath-study-progression",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae96000a259cea64e8fccb8",
+      "name": "Hugdrigo/portflow-terminal-capacity",
+      "url": "https://huggingface.co/spaces/Hugdrigo/portflow-terminal-capacity",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae95f881eb42bb25b3633c3",
+      "name": "Hugdrigo/medstock-expiry-readiness",
+      "url": "https://huggingface.co/spaces/Hugdrigo/medstock-expiry-readiness",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae95024636a95a509aa5066",
+      "name": "Hugdrigo/tradebarrier-landed-cost",
+      "url": "https://huggingface.co/spaces/Hugdrigo/tradebarrier-landed-cost",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae94ff8ac4df7c2b4bf5925",
+      "name": "Hugdrigo/ethicsgate-ai-risk-assessment",
+      "url": "https://huggingface.co/spaces/Hugdrigo/ethicsgate-ai-risk-assessment",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae94f9571d60edea13f8387",
+      "name": "Hugdrigo/gridbattery-storage-economics",
+      "url": "https://huggingface.co/spaces/Hugdrigo/gridbattery-storage-economics",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
+    },
+    {
+      "collection": "spaces",
+      "remoteId": "6ae7fe453f83b52cf0af2f95",
+      "name": "Hugdrigo/attnscope-transformer-lab",
+      "url": "https://huggingface.co/spaces/Hugdrigo/attnscope-transformer-lab",
+      "kind": "static_space",
+      "reviewedAt": "2026-11-12"
     }
   ]
 }
