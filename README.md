@@ -16,6 +16,12 @@ Failures, missing records, renamed identities and unknown IDs retain the accepte
 
 Inspect the last run in Actions and the `lastRun` field. `promoted` means the approved metadata was checked; `retained` means the previous accepted observation remains. A seed is dated input, not an executed remote job. Disabling the workflow in Actions pauses scheduling without losing state. Changing repository visibility to private also prevents allocating a runner under this workflow.
 
+## Review gate (no production writes)
+
+Pull requests that change scripts, reviewed-reference policy, state format, workflow definitions, tests, or the README run a **read-only offline validation** before merge. The [PR contracts workflow](.github/workflows/pr-contracts.yml) compiles Python modules, runs the existing 14 identity/retention/security tests and four workflow-safety tests, and checks checked-in JSON syntax. Actions are pinned to immutable commit SHAs; repository permissions are read-only and checkout does not persist credentials. There is no live metadata collection, remote write, token access or publication from a pull request. GitHub may require approval of first-time contributors' workflows under standard policies.
+
+This gate supplements, rather than replaces, the guarded daily process. The scheduled job and its original profile-sync.yml are unchanged. To reproduce the PR gate locally, run python scripts/profile-job.test.py -v and python -m unittest discover -s tests -p 'test_pr_workflow.py' -v.
+
 ## Updating reviewed references
 
 Review identity, public namespace, URL and type before editing policy. Never update hashes or add an identity only to silence a failure. Preserve existing reference IDs. The website's editorial CV, case studies and academic records are maintained separately. Publishing an observation here does not deploy or modify that website; its controlled import/deployment is verified separately.
