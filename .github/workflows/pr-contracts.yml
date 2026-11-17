@@ -9,6 +9,7 @@ on:
       - 'state/**'
       - '.github/workflows/**'
       - 'README.md'
+      - 'tests/**'
   workflow_dispatch:
 
 # Pull requests, including fork-origin PRs, never receive write permissions.
@@ -40,6 +41,9 @@ jobs:
 
       - name: Exercise offline identity, safety and retention contracts
         run: python scripts/profile-job.test.py -v
+
+      - name: Check read-only workflow policy
+        run: python -m unittest discover -s tests -p 'test_pr_workflow.py' -v
 
       - name: Verify snapshot JSON syntax
         run: |
