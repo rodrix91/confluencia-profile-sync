@@ -5,13 +5,13 @@
     "collections": {
       "github": {
         "status": "fresh",
-        "lastAttemptAt": "2026-11-24T20:50:38Z",
-        "lastValidatedAt": "2026-11-24T20:50:38Z",
-        "lastSuccessfulFetchAt": "2026-11-24T20:50:38Z",
+        "lastAttemptAt": "2026-11-25T20:07:49Z",
+        "lastValidatedAt": "2026-11-25T20:07:49Z",
+        "lastSuccessfulFetchAt": "2026-11-25T20:07:49Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-24T20:50:38Z",
+          "observedAt": "2026-11-25T20:07:49Z",
           "records": [
             {
               "remoteId": "1403704823",
@@ -25,7 +25,7 @@
               "remoteId": "1403705200",
               "name": "rodrix91/rodrix91",
               "url": "https://github.com/rodrix91/rodrix91",
-              "lastActivity": "2026-11-24T12:25:43Z",
+              "lastActivity": "2026-11-25T12:23:38Z",
               "fork": false,
               "archived": false
             },
@@ -41,7 +41,7 @@
               "remoteId": "1417903289",
               "name": "rodrix91/inventory-policy-lab",
               "url": "https://github.com/rodrix91/inventory-policy-lab",
-              "lastActivity": "2026-11-24T14:01:26Z",
+              "lastActivity": "2026-11-25T14:04:59Z",
               "fork": false,
               "archived": false
             },
@@ -49,7 +49,7 @@
               "remoteId": "1439883873",
               "name": "rodrix91/rodrix-agent-kits",
               "url": "https://github.com/rodrix91/rodrix-agent-kits",
-              "lastActivity": "2026-11-23T07:31:31Z",
+              "lastActivity": "2026-11-25T13:44:47Z",
               "fork": false,
               "archived": false
             },
@@ -65,7 +65,7 @@
               "remoteId": "1442357592",
               "name": "rodrix91/confluencia-profile-sync",
               "url": "https://github.com/rodrix91/confluencia-profile-sync",
-              "lastActivity": "2026-11-23T22:12:08Z",
+              "lastActivity": "2026-11-24T20:50:41Z",
               "fork": false,
               "archived": false
             },
@@ -98,14 +98,14 @@
             {
               "url": "https://api.github.com/users/rodrix91/repos?type=owner&per_page=100&page=1",
               "next": null,
-              "etag": "W/\"9fbb499ab10bf3d859b69bd345a619ea4fbfa027ef227d001f1dc71d570aa8ba\"",
+              "etag": "W/\"8f01cb0fa932429d0e1fed49f729aa6b09b534631448f38e53c5385b9a428ce9\"",
               "lastModified": null,
               "records": [
                 {
                   "remoteId": "1442357592",
                   "name": "rodrix91/confluencia-profile-sync",
                   "url": "https://github.com/rodrix91/confluencia-profile-sync",
-                  "lastActivity": "2026-11-23T22:12:08Z",
+                  "lastActivity": "2026-11-24T20:50:41Z",
                   "fork": false,
                   "archived": false
                 },
@@ -137,7 +137,7 @@
                   "remoteId": "1417903289",
                   "name": "rodrix91/inventory-policy-lab",
                   "url": "https://github.com/rodrix91/inventory-policy-lab",
-                  "lastActivity": "2026-11-24T14:01:26Z",
+                  "lastActivity": "2026-11-25T14:04:59Z",
                   "fork": false,
                   "archived": false
                 },
@@ -169,7 +169,7 @@
                   "remoteId": "1439883873",
                   "name": "rodrix91/rodrix-agent-kits",
                   "url": "https://github.com/rodrix91/rodrix-agent-kits",
-                  "lastActivity": "2026-11-23T07:31:31Z",
+                  "lastActivity": "2026-11-25T13:44:47Z",
                   "fork": false,
                   "archived": false
                 },
@@ -177,27 +177,27 @@
                   "remoteId": "1403705200",
                   "name": "rodrix91/rodrix91",
                   "url": "https://github.com/rodrix91/rodrix91",
-                  "lastActivity": "2026-11-24T12:25:43Z",
+                  "lastActivity": "2026-11-25T12:23:38Z",
                   "fork": false,
                   "archived": false
                 }
               ],
-              "bodySha256": "5e8ca23f754dc3e847fc64b06a99c29f0b3fde44c9c985820cf971d867b06c6c"
+              "bodySha256": "d6b7b10c9d4fa759359f019493392fea01d0764958b33a8c1309b5c23acd831c"
             }
           ],
-          "sha256": "b997c3cee46f95fc686c71ff0470474a68ee9c75110948376e5143d70eb853d3"
+          "sha256": "424c7436af89401081b18f745c46ee34288c8580f77e2894bc97fd4273403724"
         },
         "pending": null
       },
       "gitlab": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-24T20:50:38Z",
-        "lastValidatedAt": "2026-11-24T20:50:38Z",
+        "lastAttemptAt": "2026-11-25T20:07:49Z",
+        "lastValidatedAt": "2026-11-25T20:07:49Z",
         "lastSuccessfulFetchAt": "2026-11-23T22:12:05Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-24T20:50:38Z",
+          "observedAt": "2026-11-25T20:07:49Z",
           "records": [
             {
               "remoteId": "87234274",
@@ -265,13 +265,13 @@
       },
       "models": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-24T20:50:38Z",
-        "lastValidatedAt": "2026-11-24T20:50:38Z",
+        "lastAttemptAt": "2026-11-25T20:07:49Z",
+        "lastValidatedAt": "2026-11-25T20:07:49Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-24T20:50:38Z",
+          "observedAt": "2026-11-25T20:07:49Z",
           "records": [],
           "pages": [
             {
@@ -289,13 +289,13 @@
       },
       "datasets": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-24T20:50:38Z",
-        "lastValidatedAt": "2026-11-24T20:50:38Z",
+        "lastAttemptAt": "2026-11-25T20:07:49Z",
+        "lastValidatedAt": "2026-11-25T20:07:49Z",
         "lastSuccessfulFetchAt": "2026-11-02T00:46:44Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-24T20:50:38Z",
+          "observedAt": "2026-11-25T20:07:49Z",
           "records": [],
           "pages": [
             {
@@ -313,13 +313,13 @@
       },
       "spaces": {
         "status": "unchanged",
-        "lastAttemptAt": "2026-11-24T20:50:38Z",
-        "lastValidatedAt": "2026-11-24T20:50:38Z",
+        "lastAttemptAt": "2026-11-25T20:07:49Z",
+        "lastValidatedAt": "2026-11-25T20:07:49Z",
         "lastSuccessfulFetchAt": "2026-11-19T19:07:59Z",
         "backoffUntil": null,
         "failure": null,
         "lastGood": {
-          "observedAt": "2026-11-24T20:50:38Z",
+          "observedAt": "2026-11-25T20:07:49Z",
           "records": [
             {
               "remoteId": "6ac7b556dbe2c89bbaf9dade",
@@ -2511,7 +2511,7 @@
   "operationalRepositoryId": "1442357592",
   "accepted": {
     "schema": "approved-public-observation-v1",
-    "validatedAt": "2026-11-24T20:50:38Z",
+    "validatedAt": "2026-11-25T20:07:49Z",
     "references": [
       {
         "collection": "github",
@@ -2530,7 +2530,7 @@
         "url": "https://github.com/rodrix91/rodrix91",
         "kind": "profile",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-24T12:25:43Z",
+        "metadataLastActivity": "2026-11-25T12:23:38Z",
         "archived": false
       },
       {
@@ -2550,7 +2550,7 @@
         "url": "https://github.com/rodrix91/inventory-policy-lab",
         "kind": "tool_repository",
         "typeReviewedAt": "2026-10-17",
-        "metadataLastActivity": "2026-11-24T14:01:26Z",
+        "metadataLastActivity": "2026-11-25T14:04:59Z",
         "archived": false
       },
       {
@@ -2560,7 +2560,7 @@
         "url": "https://github.com/rodrix91/rodrix-agent-kits",
         "kind": "public_repository",
         "typeReviewedAt": "2026-11-01T23:55:55+00:00",
-        "metadataLastActivity": "2026-11-23T07:31:31Z",
+        "metadataLastActivity": "2026-11-25T13:44:47Z",
         "archived": false
       },
       {
@@ -3986,7 +3986,7 @@
     ]
   },
   "lastRun": {
-    "at": "2026-11-24T20:50:38Z",
+    "at": "2026-11-25T20:07:49Z",
     "requests": 6,
     "result": "promoted",
     "issues": [],
